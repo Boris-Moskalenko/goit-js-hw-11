@@ -30,10 +30,3 @@ main {
 main:has(.back-link) {
   text-align: center;
 }
-.loader {
-  display: none;
-}
-
-.loader.is-visible {
-  display: block;
-}
